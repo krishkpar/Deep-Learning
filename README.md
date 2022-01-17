@@ -2,7 +2,7 @@
  
 This repository contained some of the completed assignents from the [CS231n](http://cs231n.stanford.edu/) and [CS244n](http://web.stanford.edu/class/cs224n/) course offered by Stanford University.
 
-## CS231N
+## CS231n
 ### Assignment 1:
 - Q1: k-Nearest Neighbor classifier. (_Done_)
 - Q2: Training a Support Vector Machine. (_Done_)
