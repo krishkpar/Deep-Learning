@@ -4,19 +4,19 @@ This repository contained some of the completed assignents from the [CS231n](htt
 
 ## CS231n
 ### Assignment 1:
-- Q1: k-Nearest Neighbor classifier. (_Done_)
-- Q2: Training a Support Vector Machine. (_Done_)
-- Q3: Implement a Softmax classifier. (_Done_)
-- Q4: Two-Layer Neural Network. (_Done_)
-- Q5: Image Features. (_Done_)
+- [Q1](https://github.com/krishkpar/CS231n/blob/master/assignment1/knn.ipynb):: k-Nearest Neighbor classifier. (_Done_)
+- [Q2](https://github.com/krishkpar/CS231n/blob/master/assignment1/svm.ipynb): Training a Support Vector Machine. (_Done_)
+- [Q3](https://github.com/krishkpar/CS231n/blob/master/assignment1/softmax.ipynb): Implement a Softmax classifier. (_Done_)
+- [Q4](https://github.com/krishkpar/CS231n/blob/master/assignment1/two_layer_net.ipynb): Two-Layer Neural Network. (_Done_)
+- [Q5](https://github.com/krishkpar/CS231n/blob/master/assignment1/features.ipynb): Image Features. (_Done_)
 
 ### Assignment 2:
-- Q1: Fully-connected Neural Network. (_Done_)
-- Q2: Batch Normalization. (_Mostly Done_)
-- Q3: Dropout. (_Done_)
-- Q4: Convolutional Networks. (_Done_)
-- Q5: PyTorch / TensorFlow on CIFAR-10. (_Mostly Done_)
+[Q1](https://github.com/krishkpar/CS231n/blob/master/assignment2/FullyConnectedNets.ipynb): Fully-connected Neural Network. (_Done_)
+- [Q2](https://github.com/krishkpar/CS231n/blob/master/assignment2/BatchNormalization.ipynb): Batch Normalization. (_Mostly Done_)
+- [Q3](https://github.com/krishkpar/CS231n/blob/master/assignment2/Dropout.ipynb): Dropout. (_Done_)
+- [Q4](https://github.com/krishkpar/CS231n/blob/master/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. (_Done_)
+- [Q5](https://github.com/krishkpar/CS231n/blob/master/assignment2/TensorFlow.ipynb): PyTorch / TensorFlow on CIFAR-10. (_ Mostly Done_)
 
 ## CS224n
 ### Assignment 2
-- Word2vec (_Done_)
+- [Word2vec](https://github.com/krishkpar/Deep-Learning/blob/main/CS224n/a2/word2vec.py) (_Done_)
