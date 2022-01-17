@@ -12,11 +12,11 @@ https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/knn.ipyn
 - [Q5](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/features.ipynb): Image Features. (_Done_)
 
 ### Assignment 2:
-- [Q1](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/FullyConnectedNets.ipynb): Fully-connected Neural Network. (_Done_)
-- [Q2](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/Batchnormalization.ipynb): Batch Normalization. (_Mostly Done_)
-- [Q3](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/Dropout.ipynb): Dropout. (_Done_)
-- [Q4](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/ConvolutionalNetworks.ipynb): Convolutional Networks. (_Done_)
-- [Q5](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/PyTorch.ipynb): PyTorch on CIFAR-10. (_ Mostly Done_)
+- [Q1](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment2/FullyConnectedNets.ipynb): Fully-connected Neural Network. (_Done_)
+- [Q2](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment2/Batchnormalization.ipynb): Batch Normalization. (_Mostly Done_)
+- [Q3](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment2/Dropout.ipynb): Dropout. (_Done_)
+- [Q4](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. (_Done_)
+- [Q5](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment2/PyTorch.ipynb): PyTorch on CIFAR-10. (_Mostly Done_)
 
 ## CS224n
 ### Assignment 2
