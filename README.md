@@ -4,7 +4,6 @@ This repository contained some of the completed assignents from the [CS231n](htt
 
 ## CS231n
 ### Assignment 1:
-https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/knn.ipynb
 - [Q1](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/knn.ipynb): k-Nearest Neighbor classifier. (_Done_)
 - [Q2](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/svm.ipynb): Training a Support Vector Machine. (_Done_)
 - [Q3](https://github.com/krishkpar/Deep-Learning/blob/main/CS231n/assignment1/softmax.ipynb): Implement a Softmax classifier. (_Done_)
